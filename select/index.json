@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Rouge540",
+  "base_artist": "3House",
+  "createdAt": "2026-02-11T11:43:08.297766Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rouge540 (feat. Kohjiya)",
+      "artist": "3House",
+      "has_synced": false,
+      "path": "select/pl_01_Rouge540_(feat._Kohjiya)_3House.txt"
+    }
+  ]
+}
